@@ -1,6 +1,7 @@
 variable "resource_prefix" {
   description = "Specifies the name prefix for all the Azure resources."
   type        = string
+  default = "azapi"
 }
 
 variable "location" {
