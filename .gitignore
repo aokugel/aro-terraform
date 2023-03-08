@@ -37,3 +37,5 @@ azurek8s
 *.tfplan
 
 .env
+
+pull_secret.txt
